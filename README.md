@@ -52,7 +52,7 @@ To ensure the integrity of the prediction and avoid **Data Leakage**, the models
 
 1.  **Clone the Repository**
     ```bash
-    git clone [https://github.com/Wuttikorn777/premier-league-assist-prediction.git](https://github.com/Wuttikorn777/premier-league-assist-prediction.git)
+    git clone https://github.com/WuttikornFunk/premier-league-assist-prediction.git
     cd premier-league-assist-prediction
     ```
 
@@ -72,4 +72,4 @@ To ensure the integrity of the prediction and avoid **Data Leakage**, the models
     Run all cells to perform data cleaning, visualization, model training, and evaluation.
 
 ---
-**Developed by Wuttikorn**
+
